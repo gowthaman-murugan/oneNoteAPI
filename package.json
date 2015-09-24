@@ -1,5 +1,5 @@
 {
-  "name": "oneNoteAPI",
+  "name": "onenote-api",
   "version": "1.0.0",
   "description": "Expose onenote API for users",
   "main": "index.js",
