@@ -1,6 +1,6 @@
 {
   "name": "onenote-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expose onenote API for users",
   "main": "index.js",
   "scripts": {
